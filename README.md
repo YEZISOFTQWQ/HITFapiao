@@ -1,6 +1,7 @@
 # hitcwc材料验收单生成
 
 本程序读取目录中的 PDF 发票，提取发票号、日期、购买方、供应商和商品明细，然后生成材料验收单。材料验收单风格为cwc.hit（本部），符合本部计财处要求
+Release[https://github.com/YEZISOFTQWQ/HITFapiao/releases]
 
 ---
 
